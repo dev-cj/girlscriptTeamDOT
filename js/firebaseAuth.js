@@ -7,7 +7,7 @@ firebaseAuth.onAuthStateChanged((user) => {
         const email = user.email;
         const emailVerified = user.emailVerified;
         const photoUrl = user.photoUrl;
-        // window.location.href = "/index1.html"
+        window.location.href = "/index1.html"
     }
     else{
         //sign out
@@ -15,20 +15,27 @@ firebaseAuth.onAuthStateChanged((user) => {
     console.log(user)
 });
 
+var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
 const signInButton = document.getElementById("signIn");
 const signUpButton = document.getElementById("signUp");
+const errorMessage = document.getElementById("errorMessage");
 // const signOutButton = document.querySelector("");
 
 console.log("asds");
 signInButton.addEventListener("click", () => {
     const email = document.getElementById("signin-email").value;
     const pass = document.getElementById("signin-password").value;
-    firebaseAuth.signInWithEmailAndPassword(email, pass)
-    .catch(function(error) {
-        var errorCode = error.code;
-        var errorMessage = error.message;
-        console.log(error);
-      });
+    if(pass.length > 6 && (reg.test(email))){
+            errorMessage.style.display = "none";
+        firebaseAuth.signInWithEmailAndPassword(email, pass)
+        .catch(function(error) {
+            var errorCode = error.code;
+            var errorMessage = error.message;
+            console.log(error);
+            alert(errorMessage);
+          });
+    }
+    else console.log("some error");
 });
 
 signUpButton.addEventListener("click", () => {
@@ -40,6 +47,7 @@ signUpButton.addEventListener("click", () => {
         var errorCode = error.code;
         var errorMessage = error.message;
         console.log(error);
+        alert(errorMessage);
       });
 });
 
