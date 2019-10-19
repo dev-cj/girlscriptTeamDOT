@@ -37,6 +37,7 @@
     width: 50%;
     justify-content: space-evenly;
     padding-left: 5%;
+    padding-right: 1%;
     padding-bottom: 15%;
 }
 .homeTopLeft>h1{
@@ -51,7 +52,19 @@
     font-family: 'Open sans';
     font-weight: 400;
 }
+.homeTopLeft>button{
+    color: rgb(77, 77, 187);
+    font-size: 1.5em;
+    font-family: 'Open sans';
+    font-weight: 400;
+    width: 3em;
+}
+.homeTopRight{
+    display: flex;
+    width: 50%;    
+    padding-right: 1%;
+}
 .topImg{
-    height: auto;
+    height: 80%;
     width: auto;
 }
