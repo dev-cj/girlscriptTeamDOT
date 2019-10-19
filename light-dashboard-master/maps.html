@@ -23,7 +23,9 @@
 
     <!--  CSS for Demo Purpose, don't include it in your project     -->
     <link href="assets/css/demo.css" rel="stylesheet" />
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    
 
     <!--     Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -180,7 +182,14 @@
             </div>
         </nav>
 
+        
         <div id="map"></div>
+<script>
+var newMap = L.map('map').setView([38.9188702,-77.0708398], 13);
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
+}).addTo(newMap);
+</script>
 
     </div>
 </div>
@@ -199,7 +208,6 @@
     <script src="assets/js/bootstrap-notify.js"></script>
 
     <!--  Google Maps Plugin    -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
 
     <!-- Light Bootstrap Table Core javascript and methods for Demo purpose -->
 	<script src="assets/js/light-bootstrap-dashboard.js?v=1.4.0"></script>
@@ -207,10 +215,5 @@
 	<!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
 	<script src="assets/js/demo.js"></script>
 
-    <script>
-        $().ready(function(){
-            demo.initGoogleMaps();
-        });
-    </script>
 
 </html>
