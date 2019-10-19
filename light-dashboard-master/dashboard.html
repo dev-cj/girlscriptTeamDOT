@@ -174,7 +174,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <p>Log out</p>
+                                <p id="logout">Log out</p>
                             </a>
                         </li>
 						<li class="separator hidden-lg"></li>
@@ -465,6 +465,36 @@
             });
 
     	});
-	</script>
+    </script>
+    
+    
+    <script src="https://www.gstatic.com/firebasejs/7.2.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.2.1/firebase-auth.js"></script>
+    <script>
+            // Your web app's Firebase configuration
+            var firebaseConfig = {
+              apiKey: "AIzaSyCVSvbkIcoIOY9MgfM0hANclEK86QpvTnw",
+              authDomain: "girlscriptdot.firebaseapp.com",
+              databaseURL: "https://girlscriptdot.firebaseio.com",
+              projectId: "girlscriptdot",
+              storageBucket: "girlscriptdot.appspot.com",
+              messagingSenderId: "167593291635",
+              appId: "1:167593291635:web:b0e65df92994dc278fdf06",
+              measurementId: "G-28QPGDQS0X"
+            };
+            // Initialize Firebase
+            firebase.initializeApp(firebaseConfig);
+          </script>
+    <script>
+        document.getElementById("logout").addEventListener("click", ()=>{
+            firebase.auth().signOut();
+            console.log("logout ")
+        })
+        firebase.auth().onAuthStateChanged((user) => {
+            if(user == null){
+                window.location.href = "../index.html"
+            }
+        });
+    </script>
 
 </html>
