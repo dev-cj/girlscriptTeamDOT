@@ -1,0 +1,2948 @@
+// 20191019141332
+// https://raw.githubusercontent.com/venikunche/diversifytech-communities/master/map.geojson
+
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -79.93105120000001,
+          32.7764749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Charleston Women in Tech is a collaborative effort of Charleston’s women leaders, educators, and tech professionals to support and mentor women of all ages in the technology industry.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, SCALA",
+        "location": "Charleston,USA",
+        "name": "Charleston Women in Tech",
+        "other_skills": "Data Science, Digital Marketing",
+        "website": "http://www.meetup.com/Charleston-Women-In-Tech/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5683371,
+          55.6760968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Codher is a NGO dedicated to inspiring women introducing them to the world of technology",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, Any",
+        "location": "Copenhagen,Denmark",
+        "name": "Codher",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Data Science, Databases",
+        "website": "http://Www.codher.com "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We train human trafficking survivors in coding.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "San Francisco,United States",
+        "name": "AnnieCannons",
+        "other_skills": "HTML & CSS, Mobile Development, Databases",
+        "website": "http://www.anniecannons.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "San Francisco",
+        "name": "SoGal San Francisco",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "Los Angeles",
+        "name": "SoGal Los Angeles",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "New York City",
+        "name": "SoGal New York City",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.473701,
+          31.230416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "Shanghai",
+        "name": "SoGal Shanghai",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.407395,
+          39.904211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "Beijing",
+        "name": "SoGal Beijing",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.819836,
+          1.352083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "Singapore",
+        "name": "SoGal Singapore",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.6296638,
+          10.8230989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Global community of the next generation female entrepreneurs and investors",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "N/A",
+        "location": "Ho Chi Minh City",
+        "name": "SoGal Ho Chi Minh City",
+        "other_skills": "",
+        "website": "http://iamsogal.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "SheWorx is a global collective of 2000+ ambitious female entrepreneurs in NYC, Tel Aviv, London, and Singapore. They are building a stronger startup ecosystem for women by curating events focused on providing women with the mindsets, skill sets, and mentorships to build impactful businesses. SheWorx aims to empower female entrepreneurs in 100 cities strong by 2020.",
+        "focus": "Career development or counseling in tech, Entrepreneurship, Mentorship, Fundraising Support",
+        "is_free": "Yes",
+        "languages": "n/a",
+        "location": "New York,USA",
+        "name": "SheWorx",
+        "other_skills": "",
+        "website": "http://www.sheworx.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.0931461,
+          33.7293882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We are online community focusing on Connect, share, mentor, recognize and celebrate contributions and achievements of Pakistani Women in Technology",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "None",
+        "location": "Islamabad,Pakistan",
+        "name": "Pakistani Women in Computing",
+        "other_skills": "None",
+        "website": "https://m.facebook.com/pakistaniwomenintech/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.3083685,
+          36.147424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Women Techmakers is Google’s brand and global program for women in technology. Women Techmakers provides visibility, community, and resources for women in technology to drive innovation and participation in the field.",
+        "focus": "Training and lessons on how to code, How To Code, Scratch...",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Chlef,Algeria",
+        "name": "Women Techmakers Chlef",
+        "other_skills": "HTML & CSS, Internet Of Things",
+        "website": "http://wtm.gdgchlef.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4781473,
+          48.74908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Our mission is to build an empowering environment for women in Computer Science by providing opportunities for: outreach, leadership, mentoring, and professional networking.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Support, Community, Collaboratoin",
+        "is_free": "Yes",
+        "languages": "All CS languages",
+        "location": "Bellingham,USA",
+        "name": "WWU Association for Women in Computing",
+        "other_skills": "We do not teach, per se, but we all take classes in subjects at the foundation of computer science",
+        "website": "http://awc.cs.wwu.edu/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We support a dynamic community of women through events, networking and education. Our events are designed to bring amazing women together to eat, drink & learn in beautiful spaces. We connect like-minded, passionate women from all walks of life and we exist to provide a welcoming network, mentor each other, support girls, and encourage every woman to proudly fly their geek flag.",
+        "focus": "Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "All",
+        "location": "Boston,USA",
+        "name": "She Geeks Out",
+        "other_skills": "Leadership",
+        "website": "http://www.shegeeksout.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5984437,
+          53.0137902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Geek Girls Carrots meet-ups gather together people interested in new technologies and pursuing a career in IT.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship, Inspiring more women to join IT",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, Agile, social media etc",
+        "location": "Torun,Poland ",
+        "name": "Geek Girls Carrots",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Data Science, Databases",
+        "website": "http://Geekgirlscarrots.org "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.0740373,
+          33.4483771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Strong Ties Science, Technology, Engineering, the Arts, and Mathematics (STEAM) Programs are changing  the way youth look at the problems around them. Strong Ties programs are designed to address our  nation’s dilemma in STEM fields – not graduating enough students to meet the 21st Century job demand;  African American, Latino/a, and Native American youth are underrepresented in almost every area of  STEM. Strong TIES is a community intervention to ignite passion and interest in K-12 STEM education using  culturally relevant tools for increasing interest and the Arts as the cornerstone for discovery.",
+        "focus": "Mentorship, STEM K-12 Education",
+        "is_free": "No",
+        "languages": "Python, Java, Gaming platforms like Beta:The Game CodePop",
+        "location": "Phoenix,United States",
+        "name": "Strong TIES",
+        "other_skills": "Mobile Development, Internet Of Things, Data Science, Databases, Gaming",
+        "website": "http://azstrongties.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "No",
+        "languages": "NA",
+        "location": "Los Angeles,US",
+        "name": "Black Women in Technology",
+        "other_skills": "NA",
+        "website": "http://Http://www.blackwomenintech.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We (Ineke, Katja and Kristin) believe there is plenty of room in the gender gap in tech to make a difference. After all it's called a gap for a reason. It's because of this, we organise Girl Code meetups at Q42 The Hague and Amsterdam and try to raise more awareness for the gender gap in code: meetups for coders and everyone interested in code (yes everyone, men are welcome too).",
+        "focus": "Training and lessons on how to code, Mentorship, Awereness of the gender gap in code",
+        "is_free": "Yes",
+        "languages": "Javascript, Every tutorial is different. Every speaker uses their own preffered language.",
+        "location": "Amsterdam,The Netherlands",
+        "name": "Girl Code",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Databases, Every talk and tutorial has a different topic.",
+        "website": "http://www.meetup.com/girlcode/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "SAN FRANCISCO",
+        "name": "HEALTHTECH WOMEN SAN FRANCISCO",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "CHICAGO",
+        "name": "HEALTHTECH WOMEN CHICAGO",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "NEW YORK",
+        "name": "HEALTHTECH WOMEN NEW YORK",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "BOSTON",
+        "name": "HEALTHTECH WOMEN BOSTON",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "LONDON",
+        "name": "HEALTHTECH WOMEN LONDON",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.5490774,
+          53.8007554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "HEALTHTECH WOMEN IS A GLOBAL NONPROFIT organization that empowers women leaders to educate our community about technologies impacting the healthcare ecosystem.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "none",
+        "location": "LEEDS",
+        "name": "HEALTHTECH WOMEN LEEDS",
+        "other_skills": "",
+        "website": "http://WWW.HEALTHTECHWOMEN.COM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.1815316,
+          36.8064948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Founded by 12 Tunisian Techwomen program Alumnae, Women Leaders in Tech - WOLTECH  is a new Tunisian Association created in order to empower Tunisian women working in STEM fields and helping them achieve their goals Our main goals are : - Building a network of business women and female experts in STEM fields - Strengthening the presence of women in decision-making positions in STEM fields  - Creating a cooperation platform between universities, schools and National and international companies and institutions working in STEM fields, for the benefit of Tunisian women  - Encouraging girls to engage in STEM fields  - Building cooperation opportunities between Tunisian women pioneers in STEM fields and her mates from Around the world",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Python",
+        "location": "tunis,Tunisia",
+        "name": "WoLTech",
+        "other_skills": "",
+        "website": "https://www.facebook.com/woltechpublic/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "Opensource in general, Linux in specifics",
+        "location": "Los Angeles,USA",
+        "name": "LinuxChix Los Angeles (LinuxChixLA)",
+        "other_skills": "Hardware, Internet Of Things, Data Science, Databases",
+        "website": "http://linuxchixla.org/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.1817252,
+          37.4529598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "A women's accelerator program, kicked off with 2 weeks intensive residential program in Silicon Valley with only 9 awesome women founders at a time!",
+        "focus": "Entrepreneurship, Mentorship, Startup Accelerator for Women",
+        "is_free": "Yes",
+        "languages": "Accelerator program for women founders",
+        "location": "Menlo Park,USA",
+        "name": "Women's Startup Lab",
+        "other_skills": "Entrepreneurship",
+        "website": "http://womenstartuplab.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.4125181,
+          23.810332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "To support female CSE students of Bangladesh who are interested in professional and academic development by providing an environment to encourage them, events and activities to inspire them. We provide networking,  mentoring and leadership opportunities, a platform to discuss issues related to CSE, oppotunities to advance their technical and research skills etc.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship, Training on robotics, Improving research skills, Attending international conferences for gaining knowledge and networking, Developing professionalism",
+        "is_free": "Yes",
+        "languages": "Java, C, C++",
+        "location": "Dhaka,Bangladesh",
+        "name": "Bangladeshi Women in Computer Science and Engineering (BWCSE)",
+        "other_skills": "Mobile Development, Hardware",
+        "website": "https://bwcse.wordpress.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Lisbon,Portugal",
+        "name": "Portugal Girl Geek Dinners",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Databases",
+        "website": "http://portugalgirlgeekdinners.com/blog/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.4678382,
+          -0.1806532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Woman in tech community in Ecuador",
+        "focus": "Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Ruby on Rails",
+        "location": "Quito,Ecuador",
+        "name": "Mujeres en Tecnologia",
+        "other_skills": "Mobile Development",
+        "website": "https://www.facebook.com/groups/705720476146268/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.3579049,
+          41.1414717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Accelerator Program for Women-Led Companies",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Ruby on Rails",
+        "location": "Westport,USA",
+        "name": "The Refinery",
+        "other_skills": "Business and Financial Skills",
+        "website": "http://therefineryct.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "The fastest growing platform where companies can find women in tech who work from anywhere.",
+        "focus": "Matching women with local and remote jobs",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, All languages",
+        "location": "New York City",
+        "name": "PowerToFly  New York City",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Data Science, Databases",
+        "website": "https://www.powertofly.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "The fastest growing platform where companies can find women in tech who work from anywhere.",
+        "focus": "Matching women with local and remote jobs",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, All languages",
+        "location": "San Francisco",
+        "name": "PowerToFly  San Francisco",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Data Science, Databases",
+        "website": "https://www.powertofly.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "The fastest growing platform where companies can find women in tech who work from anywhere.",
+        "focus": "Matching women with local and remote jobs",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, All languages",
+        "location": "Los Angeles",
+        "name": "PowerToFly  Los Angeles",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Data Science, Databases",
+        "website": "https://www.powertofly.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.6764816,
+          45.5230622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Free workshop to teach women to build websites using Django",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Python",
+        "location": "Portland,USA",
+        "name": "Django Girls PDX",
+        "other_skills": "HTML & CSS",
+        "website": "http://djangogirls.org/portland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.4678382,
+          -0.1806532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Python",
+        "location": "Quito,Ecuador",
+        "name": "DjangoGirls Quito",
+        "other_skills": "HTML & CSS",
+        "website": "https://djangogirls.org/quito/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.4678382,
+          -0.1806532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We're an organization that promotes events and shares content to motivate more women to participate in the technology  files",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "Python, Ruby on Rails",
+        "location": "Quito,Ecuador",
+        "name": "Empoderamiento de la Mujer - Ecuador",
+        "other_skills": "HTML & CSS, Internet Of Things",
+        "website": "http://www.empoderamientodelamujer.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          36.238414,
+          30.585164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Jordan",
+        "name": "ArabWIC Jordan",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          45.079162,
+          23.885942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Saudi Arabia",
+        "name": "ArabWIC Saudi Arabia",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.183884,
+          25.354826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Qatar",
+        "name": "ArabWIC Qatar",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          53.847818,
+          23.424076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "UAE",
+        "name": "ArabWIC UAE",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.217636,
+          12.862807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Sudan",
+        "name": "ArabWIC Sudan",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.862285,
+          33.854721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Lebanon",
+        "name": "ArabWIC Lebanon",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.802498,
+          26.820553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Egypt",
+        "name": "ArabWIC Egypt",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.537499,
+          33.886917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Tunisia",
+        "name": "ArabWIC Tunisia",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.092619999999999,
+          31.791702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Morocco",
+        "name": "ArabWIC Morocco",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.233154,
+          31.952162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Palestine",
+        "name": "ArabWIC Palestine",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.659626,
+          28.033886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Algeria",
+        "name": "ArabWIC Algeria",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.923255,
+          21.512583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Oman",
+        "name": "ArabWIC Oman",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          48.516388,
+          15.552727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Mentorship, Women in STEM empowerment",
+        "is_free": "Yes",
+        "languages": "no specific ones",
+        "location": "Yemen",
+        "name": "ArabWIC Yemen",
+        "other_skills": "Internet Of Things, Data Science, Entrepreneurship, empowerment, research ",
+        "website": "http://www.arabwic.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -115.1398296,
+          36.1699412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Idea and Startup Accelerator",
+        "focus": "Mentorship, Startup accelerator: investment & mentorship programs",
+        "is_free": "No",
+        "languages": "Accepting products built in different languages",
+        "location": "Las Vegas,USA ",
+        "name": "The Mill",
+        "other_skills": "Customer discovery, idea experiments, smart revenue models, product/market fit, user growth, company culture",
+        "website": "http://Themill.vc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1393366,
+          38.7222524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Woman Techmakers is Google's brand and global program for women in technology.   We are part of the global Women Techmakers initiative, powered by Google Developer Groups (GDG). During the next months we will cover different aspects of the tech side of the startups (i.e. backend, frontend and SDK). We will have different intro lectures followed by beginners workshops.  The purpose is to allow those who are less acquainted to learn more, and to those who are already in to expand their knowledge.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship, Networking",
+        "is_free": "Yes",
+        "languages": "nothing special",
+        "location": "Lisbon,Portugal",
+        "name": "Women Techmakers Lisbon",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Data Science, Databases",
+        "website": "http://www.meetup.com/Women-Techmakers-Lisbon/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "This group is meant to be a hangout for people in tech who wish to contribute to bringing more women and girls into technology fields. This group is meant allow us to network, brainstorm and crowd-source solutions and support from like-minded people who are passionate about bringing change and lasting impact in the lives of those girls and women who do not have equal opportunities or access to technology and technology related skills & education.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship, Topics suggested by members",
+        "is_free": "Yes",
+        "languages": "Career development",
+        "location": "Amsterdam,Netherlands",
+        "name": "Amsterdam Women in Technology",
+        "other_skills": "",
+        "website": "http://www.meetup.com/Amsterdam-Women-in-Technology/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "The Code To Change programme aims to bridge the skills gap by making available effective education and mentoring through our dedicated community of IT professionals who are passionate about passing on their expertise. It is a one of a kind, five months mentoring programme to introduce women to those career fields and skills which are vital for finding employment opportunities in the information and communications sector.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship, Community building ",
+        "is_free": "Yes",
+        "languages": "Javascript, CSS & HTML",
+        "location": "Amsterdam,Netherlands",
+        "name": "The Code To Change",
+        "other_skills": "HTML & CSS, Mobile Development, Data Science",
+        "website": "http://codetochange.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "NYC's official online hub for everything tech + startups",
+        "focus": "making information accessible: aggregating ALL the tech news, jobs, startups, investors, classes... in NYC",
+        "is_free": "Yes",
+        "languages": "n/a we aggregate the jobs + classes related to this though!",
+        "location": "New York City,USA",
+        "name": "Digital NYC",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Data Science, Databases, digital marketing",
+        "website": "http://www.digital.nyc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.1653224,
+          -17.4139766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "\"Cuantas Mas\" (How many more) is an CSO organization that works collecting data about femicide in Bolivia since 2014. We made the first data research with info of all cities in our country, as a result we built relationships with women rights activist whom we work with and also providing them digital skills for their own organizations.",
+        "focus": "Work with data with women rights organizations and providing them digital skills.",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Cochabamba,Bolivia",
+        "name": "Cuantas Mas",
+        "other_skills": "Databases",
+        "website": "http://cuantasmas.lapublica.org.bo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.48319169999999,
+          43.450301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "An innovation centre helping companies start, grow and succeed",
+        "focus": "Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Kitchener,Canada",
+        "name": "Communitech",
+        "other_skills": "Mobile Development, Hardware, Internet Of Things, Data Science",
+        "website": "http://Www.communitech.ca"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Coordinating Effort with Women Tech Leaders in Washington DC",
+        "focus": "Networking with local companies for jobs, Connecting local groups and sharing promotion/resources ",
+        "is_free": "Yes",
+        "languages": "Language Agnostic",
+        "location": "Washington,USA",
+        "name": "DC Fem Tech",
+        "other_skills": "",
+        "website": "https://dcfemtech.github.io/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.6236353,
+          46.7712101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Empower women to take more risks and leadership roles",
+        "focus": "Network for passionate women who thrive for more in their careers",
+        "is_free": "Yes",
+        "languages": "It's not only tech related",
+        "location": "Cluj-Napoca,Romania",
+        "name": "Lean in Cluj",
+        "other_skills": "",
+        "website": "http://leanincircles.org/circle/lean-in-cluj/activity"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3738189,
+          48.2081743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Techtrrrs' aim is to connect and further (local) women interested in tech (regardless of skill level and background) by organising free tech workshops and events.",
+        "focus": "Training and lessons on how to code, Mentorship, tech workshops in general (i.e. not just programming workshops but also: tools, electronics, cryptography...), networking with other women interested in the same/similar topics, cross-university networking,...",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, actually n/a, but we might start a Python study group this summer (or maybe both a Python & JavaScript one) and we're also still planning to organise the first Django Girls event in Vienna",
+        "location": "Vienna,Austria",
+        "name": "Techtrrrs",
+        "other_skills": "HTML & CSS, Hardware, cryptography, \"tools of the trade\" (like e.g. Git), electronics (microcontrollers) etc. ",
+        "website": "http://www.techtrrrs.at/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.3496092,
+          20.6596988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Comunidad formada por mujeres  generadoras de tecnologia en busca del conocimiento y la inclusion.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java",
+        "location": "Guadalajara,Mexico",
+        "name": "Tech Women Community",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Data Science, Databases",
+        "website": "http://techwomen.org.mx/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We are a Growth Strategy Consultancy, Website & Mobile; Design and Development agency. We mentor Women in Startups and speed up their Idea to Execution.",
+        "focus": "Entrepreneurship, Mentorship",
+        "is_free": "No",
+        "languages": "Javascript, php",
+        "location": "London,United Kingdom",
+        "name": "iDigitalise Ltd",
+        "other_skills": "Mobile Development, Internet Of Things",
+        "website": "http://www.idigitalise.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.626479,
+          -20.1325066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We introduce and teach young ladies programming",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Java",
+        "location": "Bulawayo,Zimbabwe",
+        "name": "Shecodes",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things",
+        "website": "http://Www.shecodes.co.zw"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.93776,
+          38.9896967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Technica is a new hackathon that's ladies only. This year it's November 5-6!",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java",
+        "location": "College Park,USA",
+        "name": "Technica",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Data Science",
+        "website": "http://gotechnica.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.1591213,
+          5.9630513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Centre for Youth Education and Economic Development (CYEED) is a grass root development organization serving as a community resource center for technical training and  education working to empower youths especially girls and young women towards achieving their development objectives. This community center promotes education for sustainable development, enhances youth welfare issues, human rights education for women and girls especially needy orphans, indigenous children and vulnerable youths.",
+        "focus": "Training and lessons on how to code, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Java, Scrtach",
+        "location": "Bamenda,Cameroon",
+        "name": "Center for Youth Education and Economic Development",
+        "other_skills": "Mobile Development, Hardware",
+        "website": "http://www.cyeed.net/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.93776,
+          38.9896967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Java",
+        "location": "College Park,USA",
+        "name": "Technica",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware",
+        "website": "http://gotechnica.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.10973349999999,
+          42.3736158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We offer technology classes for women by women",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, HTML/CSS",
+        "location": "Cambridge,USA",
+        "name": "smartyGirl.org",
+        "other_skills": "HTML & CSS, Hardware, Internet Of Things",
+        "website": "http://www.smartygirl.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8863286,
+          37.3382082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "This program for girls at social risk between 15-19 years old to learn about solving problems around them with technology, programming, empowerment, leadership  is held in Costa Rica and in Monterrey Mexico.",
+        "focus": "Training and lessons on how to code, Entrepreneurship, empowerment, leadership, team work",
+        "is_free": "No",
+        "languages": "AppInventor (they create an android app)",
+        "location": "San Jose",
+        "name": "MenTe en Accion San Jose",
+        "other_skills": "Hardware, Internet Of Things, VR and Robotics",
+        "website": "http://www.menteenaccion.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.6921737,
+          39.2638762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "This program for girls at social risk between 15-19 years old to learn about solving problems around them with technology, programming, empowerment, leadership  is held in Costa Rica and in Monterrey Mexico.",
+        "focus": "Training and lessons on how to code, Entrepreneurship, empowerment, leadership, team work",
+        "is_free": "No",
+        "languages": "AppInventor (they create an android app)",
+        "location": "Limon",
+        "name": "MenTe en Accion Limon",
+        "other_skills": "Hardware, Internet Of Things, VR and Robotics",
+        "website": "http://www.menteenaccion.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.3161126,
+          25.6866142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "This program for girls at social risk between 15-19 years old to learn about solving problems around them with technology, programming, empowerment, leadership  is held in Costa Rica and in Monterrey Mexico.",
+        "focus": "Training and lessons on how to code, Entrepreneurship, leadership, empowerment",
+        "is_free": "No",
+        "languages": "AppInventor",
+        "location": "Monterrey,Mexico",
+        "name": "MenTe en Accion Mexico",
+        "other_skills": "Hardware, Internet Of Things, VR and Robotics",
+        "website": "http://www.menteenaccion.com.mx"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.133208,
+          19.4326077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Almost all cities in mexico (mexico city",
+        "name": "N/A Epic Queen Almost all cities in mexico (mexico city",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.3161126,
+          25.6866142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "monterrey",
+        "name": "N/A Epic Queen monterrey",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -103.3496092,
+          20.6596988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "guadalajara",
+        "name": "N/A Epic Queen guadalajara",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -102.5832426,
+          22.7708555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "zacatecas",
+        "name": "N/A Epic Queen zacatecas",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.1342241,
+          19.173773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "veracruz",
+        "name": "N/A Epic Queen veracruz",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -98.7591311,
+          20.1010608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "pachuca",
+        "name": "N/A Epic Queen pachuca",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.8515279,
+          21.161908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "cancun",
+        "name": "N/A Epic Queen cancun",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -99.549573,
+          27.4779362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "nuevo laredo",
+        "name": "N/A Epic Queen nuevo laredo",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.9855409,
+          22.1564699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "san luis potosi",
+        "name": "N/A Epic Queen san luis potosi",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.0382471,
+          32.5149469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "tijuana",
+        "name": "N/A Epic Queen tijuana",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -100.3898881,
+          20.5887932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "queretaro",
+        "name": "N/A Epic Queen queretaro",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.1342241,
+          19.173773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "veracruz",
+        "name": "N/A Epic Queen veracruz",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -36.954107,
+          -8.8137173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen, the first NGO and non-profit mexican organization that develops programs and initiatives to include women in the technology industry. Epic Queen has 3 active programs  Epic Queen Chapter: monthly meetups where we invited three women technology leaders in different roles and with different functions, which are carried out in 35 cities in Mexico and 8 countries ( Colombia, Panamá, USA, Spain, Ecuador, Chile,Perú). We have given greater visibility to over 300 role models, and we impacted more than 30,000 women. Code Party: the first program for girls aged 7 to 11 years where through a party they awaken their imagination, discover and explore the endless possibilities of what you can do to be creative technology from an early age.  Code Party has three different activities: prototyping, inspiration and programming.   In just one year we impacted more than 3,000 girls in México, Perú and Colombia.   Epic Queen Workshops:  The workshops develop integrative technology skills for the XXI century focused on STEM and digital tools for girls and women.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Pe",
+        "name": "N/A Epic Queen Pe",
+        "other_skills": "HTML & CSS",
+        "website": "http://www.epicqueen.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -92.6189273,
+          17.8409173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Epic Queen is the first Mexican organization whose mission is to bring, inspire and educate girls and women as creators of technology.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "Programing principles",
+        "location": "Tabasco,Mexico",
+        "name": "Epic Queen Tabasco",
+        "other_skills": "",
+        "website": "https://www.facebook.com/EpicQueenTabasco/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "WomenTechmakers (http://www.womentechmakers.com) is an initiative of Google Developers, supported by Google Developer Group (GDG) communities worldwide. We hold developer events, tech talks and hackathons -- and an annual \"Women TechMakers\" conference (e.g., iwd2015nyc.splashthat.com) to connect and celebrate women's achievements in tech",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": "Javascript, Java, HTML/CSS/JS, GoLang, Android, ..",
+        "location": "New York City,United States",
+        "name": "Women TechMakers @GDG New York",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Databases, Physical Web, Embedded & Wearables, Cloud Computing, Machine Learning",
+        "website": "http://meetup.com/gdgnyc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.5120196,
+          39.1031182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We are a group of ladies who code or are interested in learning more about code. We have a networking or class once a month, and a monthly hack night.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails",
+        "location": "Cincinnati,USA",
+        "name": "Women Who Code Cincinnati",
+        "other_skills": "HTML & CSS, We are open to suggestions",
+        "website": "http://www.meetup.com/WWCode-Cincinnati/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7816016,
+          36.1626638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "This group is hosted by women programmers with the goal to build a welcoming and beginner friendly environment to learn, in order to grow diversity in the programming field.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship, Diversity",
+        "is_free": "Yes",
+        "languages": "Intros to any language",
+        "location": "Nashville,USA",
+        "name": "Nashville Women Programmers",
+        "other_skills": "",
+        "website": "http://www.meetup.com/NashvilleWomenProgrammers/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8677444,
+          1.3553794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Career development or counseling in tech, Entrepreneurship, Mentorship, Funding for women",
+        "is_free": "Yes",
+        "languages": "Ruby on Rails",
+        "location": "Singapore,Singapore",
+        "name": "Woomentum",
+        "other_skills": "",
+        "website": "http://Woomentum.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.9630576,
+          -37.8136276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Melbourne",
+        "name": "Australian women in security network Melbourne",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.8604572,
+          -31.9505269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Perth",
+        "name": "Australian women in security network Perth",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.124417,
+          -35.3075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Canberra",
+        "name": "Australian women in security network Canberra",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.8604572,
+          -31.9505269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Perth",
+        "name": "Australian women in security network Perth",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.2092955,
+          -33.8688197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Sydney",
+        "name": "Australian women in security network Sydney",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          153.0251235,
+          -27.4697707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Connecting, supporting, collaborating, inspiring women in security",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Awareness on careers in security ",
+        "is_free": "Yes",
+        "languages": "Not relevant",
+        "location": "Brisbane",
+        "name": "Australian women in security network Brisbane",
+        "other_skills": "Security ",
+        "website": "http://Www.auswomeninsecurity.net"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          172.6362254,
+          -43.5320544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Computer Chicks is a free to join social club at the University of Canterbury, New Zealand. It is open to anyone who identifies as female and is studying Computer Science, Computer Engineering, Software Engineering, Information Systems or Maths, or who studies papers related to these degrees at the University of Canterbury.  We aim to support and connect the women studying technical papers at UC.",
+        "focus": "Networking with local companies for jobs, Mentorship, Student Retention",
+        "is_free": "Yes",
+        "languages": "We support all languages and events to encourage women into Computer Science and Tech.",
+        "location": "Christchurch,New Zealand",
+        "name": "UC Computer Chicks",
+        "other_skills": "Imposter Syndrome, Confidence, Mentorship, ans Support.",
+        "website": "https://www.facebook.com/groups/computerchicks/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          174.7633315,
+          -36.8484597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "She# has several missions. We aim to link together women who are already in this field (in both academia and industry), and establish a platform to network with each other. It’s hard enough being a minority, but harder still if we can’t network with others in similar situations!  Secondly, it is our goal to influence the next generation by promoting computer science and related fields to high school students who haven’t yet decided which career path to follow. If we can show young girls how exciting, interesting, and relevant computer science is to their lives, not to mention the massive potential job opportunities there are for them; we can provide positive influence and help young women make informed career decisions. We hope those women can surpass and change what is believed to be normal and take opportunities to work as equals alongside their male peers.  Lastly, by opening events to men we aim to educate them in why encouraging women of all ages and skills is important. We invite them to work side-by-side with us to advocate gender balance in the workplace.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Python, Java, C#",
+        "location": "Auckland,New Zealand ",
+        "name": "She# ( SheSharp)",
+        "other_skills": "Mobile Development, Hardware, Internet Of Things",
+        "website": "http://SheSharp.co.nz"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Free bootcamps in Node.js for women",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "London,UK",
+        "name": "Node Girls",
+        "other_skills": "",
+        "website": "http://nodegirls.io"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          172.6362254,
+          -43.5320544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "When a group of professional women help and support each other, amazing things can happen. That's what Women in Tech in Christchurch is all about. We share the challenges we face as well as our success stories, and have fun along the way.  We also welcome men who are keen to support us and learn more about the part they can play.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Tech in general",
+        "location": "Christchurch,New Zealand",
+        "name": "Women in Tech Christchurch",
+        "other_skills": "We present on all of these things if we can :)",
+        "website": "http://www.meetup.com/Women-in-Tech-Chch/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.19940419999999,
+          38.6270025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "LaunchCoder Girl is an all female meetup group designed to support each other in learning computer programming and promote engagement in the tech industry.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, C#",
+        "location": "St. Louis,USA",
+        "name": "CoderGirl",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Data Science, Databases",
+        "website": "http://www.launchcode.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.7605239,
+          6.2907432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "SWEL   provides the vehicle for Women Engineers to give back to their communities through outreach programs to encourage young women, their parents, councilors,and the general public of the qualifications , achievements  and the opportunities open to them.  With this in mind, young girls will find and follow their dreams to become future engineers.  We aspire to; 1.\tAssist women in preparing themselves for a return to active work after temporary retirement.  2.\tTo encourage women engineers to obtain high levels of education and professional achievements.  3.\tTo motivate female students to believe in their math and science skills and expose them to engineering as a meaningful and rewarding career choice.  BENEFITS OF BEING SWEL’S MEMBER This will come in many forms- from the empowerment of finding the right mentor to the satisfaction of seeing the look on the face of a girl who successfully completes a science project and experiencing her creativity for the first time.  SWEL will highlight the following for its collegiate/students members  •\tSupport systems- peer groups, mentors advisers and industry leaders.  •\tSection Programs including speaker events, seminars and leadership opportunities.  •\tSite visitations- giving them the chance to see, step –by- step the practical aspects of their respective areas of studies and prepare them for employment through internships at various technical related firms.  •\tConduct both national and regional conferences alongside professional development seminars. This will bring them face to face with practicing women engineers and other students.  •\tOrganize career fairs in conjunction with  engineering clubs from primary, junior and senior high schools.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript",
+        "location": "Monrovia,Liberia",
+        "name": "Society of Women Engineers of Liberia (SWEL)",
+        "other_skills": "Internet Of Things",
+        "website": "http://http:/www.swelblog.wordpress.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5654177,
+          25.0329694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Girls in Tech is a global non-profit focused on the engagement, education and empowerment of women in technology and entrepreneurship. As women with the capacity to inspire and lead, it’s the organization’s desire to sustain an institution that focuses on the promotion, growth and success of entrepreneurial and innovative women in the technology space.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Java, AWS, html5",
+        "location": "Taipei,Republic of China(Taiwan)",
+        "name": "Girls in Tech Taiwan",
+        "other_skills": "HTML & CSS, Mobile Development, Data Science",
+        "website": "http://taiwan.girlsintech.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5654177,
+          25.0329694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Taipei Women in Tech is a meetup group for professional networking to help women to excel in technology careers by creating a global, connected community.<br> Our events will include:<br> Tech talks, startup stories, tips and guidance<br> Events featuring influential tech industry experts and investors<br> Career and leadership development",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Ruby on Rails, Java, C#",
+        "location": "Taipei",
+        "name": "Taipei Women in Tech Taipei",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Data Science, Databases",
+        "website": "http://meetu.ps/c/2tRSg/sXxXj/a"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.7377502,
+          24.7021073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Taipei Women in Tech is a meetup group for professional networking to help women to excel in technology careers by creating a global, connected community.<br> Our events will include:<br> Tech talks, startup stories, tips and guidance<br> Events featuring influential tech industry experts and investors<br> Career and leadership development",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Ruby on Rails, Java, C#",
+        "location": "Yilan",
+        "name": "Taipei Women in Tech Yilan",
+        "other_skills": "HTML & CSS, Mobile Development, Internet Of Things, Data Science, Databases",
+        "website": "http://meetu.ps/c/2tRSg/sXxXj/a"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5654177,
+          25.0329694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Ladies that UX creates a space for women from all levels to engage and talk about their experiences, both positive and negative, and get the support and inspiration that they are looking for. There are so many places you go along to and people give talks and put their ideas across, but what we wanted to offer is a more relaxed environment – one where people are more open to sharing ideas and there’s no pressure to speak out.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Not specific ",
+        "location": "Taipei,Republic of China(Taiwan)",
+        "name": "Ladies that UX Taipei",
+        "other_skills": "UX/UI workshops",
+        "website": "http://ladiesthatux.com/taipei/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.19940419999999,
+          38.6270025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Weekly meetup for aspiring software developers",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Java, C#",
+        "location": "St. Louis,United States ",
+        "name": "LaunchCoderGirl",
+        "other_skills": "HTML & CSS, Databases",
+        "website": "http://www.codergirl.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0626332,
+          -22.9099384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "IEEE Women in Engineering group",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "We don´t focus on any specific language",
+        "location": "Campinas,Brazil",
+        "name": "IEEE WIE (Women in Engineering)",
+        "other_skills": "",
+        "website": "http://sites.ieee.org/southbrazil-wie/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Ladies Who Linux is an inclusive space for women, trans, gender queer/ nonbinary to learn, practice, discuss all things Linux. All levels and all *nix topics welcome.",
+        "focus": "Learn/ Teach /Mentor for Unix Systems ",
+        "is_free": "Yes",
+        "languages": "Linux Systems",
+        "location": "New York,USA",
+        "name": "Ladies Who Linux NY",
+        "other_skills": "",
+        "website": "http://www.meetup.com/Ladies-Who-Linux-NY/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "STEM for Her is focused on championing programs and initiatives that foster enthusiasm and empower girls and young women to pursue a career in science, technology, engineering and math fields of study.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "n/a",
+        "location": "We serve girls in the DC metro area (including surrounding counties),USA",
+        "name": "STEM for Her",
+        "other_skills": "n/a",
+        "website": "http://www.stemforher.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.567256,
+          45.5016889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We're female developers in Montreal. We decided that Montreal needs another event for female developers to hang out, talk technology, and hack on cool projects.  Bring yourself, your vexing technical problems, and your expertise! If you feel like coding, bring a laptop. We provide food, internet and witty banter.  If you're interested in giving a talk at a future meetup or have any other suggestions, questions, or photos of cats you'd like to share.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, C#",
+        "location": "Montreal,Canada",
+        "name": "All-Girl Hack Night",
+        "other_skills": "It is more discussions and breakout groups.  We teach all of the above. ",
+        "website": "http://www.meetup.com/Montreal-All-Girl-Hack-Night/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.3130661,
+          34.134728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "A group bringing together women developers in the deserts of California.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, HTML, CSS, jQuery, PHP",
+        "location": "Joshua Tree",
+        "name": "Desert Code Joshua Tree",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Databases, UX/UI",
+        "website": "http://desertcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.5452921,
+          33.8302961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "A group bringing together women developers in the deserts of California.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, HTML, CSS, jQuery, PHP",
+        "location": "Palm Springs",
+        "name": "Desert Code Palm Springs",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Databases, UX/UI",
+        "website": "http://desertcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.3744556,
+          33.7222445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "A group bringing together women developers in the deserts of California.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, HTML, CSS, jQuery, PHP",
+        "location": "Palm Desert",
+        "name": "Desert Code Palm Desert",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Databases, UX/UI",
+        "website": "http://desertcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "A supportive community of women and non-binary people of color in tech.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "NA",
+        "location": "New York City,USA",
+        "name": "Women of Color in Tech",
+        "other_skills": "Info/Cyber Security ",
+        "website": "http://www.wocintechchat.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.51900529999999,
+          41.0814447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We're creating a network of women in Akron interested in programming, having fun, and building a community.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python",
+        "location": "Akron,USA",
+        "name": "Akron Women in Tech",
+        "other_skills": "HTML & CSS, We teach what our community asks for",
+        "website": "http://akronwit.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.6764816,
+          45.5230622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Casual get togethers for women (cis & trans*) and genderqueer persons interested in hacking, making and technology. All types of projects, languages, platforms and experience levels welcome. Kid-friendly. Serving the Portland, Oregon area.",
+        "focus": "Friendship, solidarity, community",
+        "is_free": "Yes",
+        "languages": "Language/project agnostic",
+        "location": "Portland,USA",
+        "name": "Women Who Hack",
+        "other_skills": "",
+        "website": "http://womenwhohack.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.0348144,
+          34.0007104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "We are only a few months old. We haven't focused on any programming languages yet.",
+        "location": "Columbia,US",
+        "name": "Columbia Women in Tech",
+        "other_skills": "Still determining this",
+        "website": "http://www.meetup.com/Columbia-Women-in-Tech/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Empowering Women Software Developers to Become Thought Leaders, Speakers, & Open Source Contributors",
+        "focus": "Career development or counseling in tech, Contributing to the software community",
+        "is_free": "Yes",
+        "languages": "N/A - language agnostic",
+        "location": "NYC",
+        "name": "Write/Speak/Code NYC",
+        "other_skills": "speaking, open source, writing",
+        "website": "http://writespeakcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Empowering Women Software Developers to Become Thought Leaders, Speakers, & Open Source Contributors",
+        "focus": "Career development or counseling in tech, Contributing to the software community",
+        "is_free": "Yes",
+        "languages": "N/A - language agnostic",
+        "location": "Chicago",
+        "name": "Write/Speak/Code Chicago",
+        "other_skills": "speaking, open source, writing",
+        "website": "http://writespeakcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Empowering Women Software Developers to Become Thought Leaders, Speakers, & Open Source Contributors",
+        "focus": "Career development or counseling in tech, Contributing to the software community",
+        "is_free": "Yes",
+        "languages": "N/A - language agnostic",
+        "location": "San Francisco",
+        "name": "Write/Speak/Code San Francisco",
+        "other_skills": "speaking, open source, writing",
+        "website": "http://writespeakcode.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Bitches and Bytes is an organization dedicated to advancing the cause of women in tech. We organize events and help women find internships and jobs with companies in the Netherlands. We believe in working with sponsors that share our mission of increasing the number of employed female devs in the Netherlands.",
+        "focus": "Training and lessons on how to code, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Ruby on Rails",
+        "location": "Amsterdam,The Netherlands",
+        "name": "Bitches and Bytes",
+        "other_skills": "HTML & CSS",
+        "website": "http://bitchesandbytes.nl"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5654177,
+          25.0329694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We inspire women to fall in love with programming.",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Python",
+        "location": "Taipei,Taiwan",
+        "name": "Django Girls Taipei",
+        "other_skills": "HTML & CSS, Databases",
+        "website": "http://djangogirls.org/taipei"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.8677444,
+          1.3553794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "TechLadies is a community for women in Asia to connect, learn, and advance as programmers in the tech industry.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails",
+        "location": "Singapore,Singapore",
+        "name": "TechLadies",
+        "other_skills": "HTML & CSS, Mobile Development",
+        "website": "http://www.techladies.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.9447102,
+          34.2257255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We are here to support a thriving tech community with a focus on women helping other women. By championing and developing our local talent today, we hope to inspire more women to chose careers in technology tomorrow.",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, PHP",
+        "location": "Wilmington,USA",
+        "name": "Cape Fear Women in Tech",
+        "other_skills": "",
+        "website": "http://www.capefearwomenintech.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "In order to help guide the careers of our members, we provide a continual source of developmental materials to reinforce the key factors associated with attaining their professional successes.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Leadership development",
+        "location": "D.C.",
+        "name": "Black Women in Science & Engineering Washington D.C.",
+        "other_skills": "Databases",
+        "website": "http://www.bwiseusa.org/home.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.3698028,
+          29.7604267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "In order to help guide the careers of our members, we provide a continual source of developmental materials to reinforce the key factors associated with attaining their professional successes.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Leadership development",
+        "location": "Houston",
+        "name": "Black Women in Science & Engineering Houston",
+        "other_skills": "Databases",
+        "website": "http://www.bwiseusa.org/home.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.3879824,
+          33.7489954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "In order to help guide the careers of our members, we provide a continual source of developmental materials to reinforce the key factors associated with attaining their professional successes.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Leadership development",
+        "location": "Atlanta",
+        "name": "Black Women in Science & Engineering Atlanta",
+        "other_skills": "Databases",
+        "website": "http://www.bwiseusa.org/home.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "In order to help guide the careers of our members, we provide a continual source of developmental materials to reinforce the key factors associated with attaining their professional successes.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Leadership development",
+        "location": "Chicago",
+        "name": "Black Women in Science & Engineering Chicago",
+        "other_skills": "Databases",
+        "website": "http://www.bwiseusa.org/home.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.9630576,
+          -37.8136276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We run study group sessions for women learning to code",
+        "focus": "Peer learning/connecting/support group",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, Any launguages our members are choosing to learn ",
+        "location": "Melbourne,Australia",
+        "name": "Female Coders Lab",
+        "other_skills": "",
+        "website": "http://www.meetup.com/Female-Coders-Lab-Melbourne/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.072092,
+          4.710988599999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "Bogota",
+        "name": "Geek Girls Latam Bogota",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.5319854,
+          3.4516467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "Cali",
+        "name": "Geek Girls Latam Cali",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.5812119,
+          6.244203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "Medellín",
+        "name": "Geek Girls Latam Medellín",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.638209,
+          4.151463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "Villavicencio",
+        "name": "Geek Girls Latam Villavicencio",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.89653,
+          13.794185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "El Salvador",
+        "name": "Geek Girls Latam El Salvador",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.015152,
+          -9.189967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "GeekGirls LatAm is an International non-profit organization aiming to inspire and empower latin women as change agents in the use, appropiation and creation of technology.",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship, Inspiring ",
+        "is_free": "Yes",
+        "languages": "Non",
+        "location": "Perú",
+        "name": "Geek Girls Latam Perú",
+        "other_skills": "Non",
+        "website": "http://www.geekgirls.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We are a friendly, welcoming and collaborative group, with a growing number of groups based in 50+ cities worldwide. We consist of women and men that work in tech and UX fields, who are willing to share knowledge and promote each other.",
+        "focus": "promoting female talent and fostering a safe and comfortable environment for women in UX",
+        "is_free": "Yes",
+        "languages": "User Experience",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Ladies that UX Amsterdam",
+        "other_skills": "",
+        "website": "http://www.meetup.com/Ladies-that-UX-Amsterdam-Meetup/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4240553,
+          -33.9248685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Siliconcape focuses on promoting technology entrepreneurship in Cape Town. One of the portfolios of the Siliconcape Executive Committee is the Women Porfolio which promotes the participation of women in our industry.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": " We do not focus on skills development",
+        "location": "Cape Town",
+        "name": "Siliconcape Cape Town",
+        "other_skills": "",
+        "website": "http://www.siliconcape.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          22.937506,
+          -30.559482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Siliconcape focuses on promoting technology entrepreneurship in Cape Town. One of the portfolios of the Siliconcape Executive Committee is the Women Porfolio which promotes the participation of women in our industry.",
+        "focus": "Networking with local companies for jobs, Entrepreneurship",
+        "is_free": "Yes",
+        "languages": " We do not focus on skills development",
+        "location": "South Africa",
+        "name": "Siliconcape South Africa",
+        "other_skills": "",
+        "website": "http://www.siliconcape.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.0473051,
+          -26.2041028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "We teach girls to code",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Javascript, Python",
+        "location": "Johannesburg, South Africa",
+        "name": "Umonya Girls",
+        "other_skills": "HTML & CSS",
+        "website": "http://Http://umonya.org.za"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -6.2603097,
+          53.3498053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Women in tech Africa's is an organisation that empowers girls and women, with the vision to: • Create today’s female leaders and role Models for tomorrow’s Women • Show the world what a strong African woman in capable of achieving • Support African growth through technology",
+        "focus": "Career development or counseling in tech, Networking with local companies for jobs, Mentorship",
+        "is_free": "Yes",
+        "languages": "Java, C#",
+        "location": "Dublin, Ireland ",
+        "name": "Ireland chapter of Women in Tech Africa",
+        "other_skills": "HTML & CSS, Mobile Development, Databases",
+        "website": "http://www.womenintechafrica.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Company focused on helping women start, grow and fund their businesses",
+        "focus": "Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Networking",
+        "location": "New York",
+        "name": "Monarq New York",
+        "other_skills": "",
+        "website": "http://events.monarq.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.3698028,
+          29.7604267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Company focused on helping women start, grow and fund their businesses",
+        "focus": "Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Networking",
+        "location": "Houston",
+        "name": "Monarq Houston",
+        "other_skills": "",
+        "website": "http://events.monarq.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.3698028,
+          29.7604267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "All Women Hackathons",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship, Hackathons",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java",
+        "location": "Houston, USA",
+        "name": "SheHacksHTX",
+        "other_skills": "HTML & CSS, Mobile Development, Databases",
+        "website": "http://shehackshtx.monarq.co/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "All Women Hackathons",
+        "focus": "Networking with local companies for jobs, Entrepreneurship, Mentorship, Hackathons",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java",
+        "location": "New York, USA",
+        "name": "SheHacksNYC",
+        "other_skills": "HTML & CSS, Mobile Development",
+        "website": "http://shehacksnyc.monarq.co"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "501c3 nonprofit PreK-20 STEM Education organization",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Java",
+        "location": "DC, US",
+        "name": "Uplift, Inc.",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Databases",
+        "website": "http://www.upliftdc.org"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6121893,
+          39.2903848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Undergraduate Chapter of ACM-W at Coppin State University",
+        "focus": "Training and lessons on how to code, Career development or counseling in tech, Networking with local companies for jobs, Entrepreneurship, Mentorship",
+        "is_free": "Yes",
+        "languages": "Javascript, Python, Ruby on Rails, Java, C#",
+        "location": "Baltimore, US",
+        "name": "ACM-W",
+        "other_skills": "HTML & CSS, Mobile Development, Hardware, Internet Of Things, Data Science, Databases",
+        "website": "http://N/A yet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "about": "Hear Me Code offers free, beginner-friendly coding classes for over 2500 women in DC",
+        "focus": "Training and lessons on how to code",
+        "is_free": "Yes",
+        "languages": "Python",
+        "location": "Washington DC, USA",
+        "name": "Hear Me Code",
+        "other_skills": "",
+        "website": "http://hearmecode.com"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
