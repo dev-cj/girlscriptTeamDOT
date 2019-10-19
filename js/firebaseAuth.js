@@ -7,7 +7,7 @@ firebaseAuth.onAuthStateChanged((user) => {
         const email = user.email;
         const emailVerified = user.emailVerified;
         const photoUrl = user.photoUrl;
-        window.location.href = "/dashboard.html"
+        window.location.href = "light-dashboard-master/dashboard.html"
     }
     else{
         //sign out
