@@ -1,18 +1,4 @@
-const firebase = require("firebase/app");
-const firebaseAuth = require("firebase/auth");
-
-const firebaseConfig = {
-    apiKey: "AIzaSyCVSvbkIcoIOY9MgfM0hANclEK86QpvTnw",
-    authDomain: "girlscriptdot.firebaseapp.com",
-    databaseURL: "https://girlscriptdot.firebaseio.com",
-    projectId: "girlscriptdot",
-    storageBucket: "girlscriptdot.appspot.com",
-    messagingSenderId: "167593291635",
-    appId: "1:167593291635:web:b0e65df92994dc278fdf06",
-    measurementId: "G-28QPGDQS0X"
-};
-
-firebase.initializeApp(firebaseConfig);
+var firebaseAuth = firebase.auth();
 
 firebaseAuth.onAuthStateChanged((user) => {
     if(user != null){
@@ -21,8 +7,7 @@ firebaseAuth.onAuthStateChanged((user) => {
         const email = user.email;
         const emailVerified = user.emailVerified;
         const photoUrl = user.photoUrl;
-
-
+        // window.location.href = "/index1.html"
     }
     else{
         //sign out
@@ -36,7 +21,9 @@ const signUpButton = document.getElementById("signUp");
 
 console.log("asds");
 signInButton.addEventListener("click", () => {
-    firebaseAuth.signInWithEmailAndPassword("asd", "asd")
+    const email = document.getElementById("signin-email").value;
+    const pass = document.getElementById("signin-password").value;
+    firebaseAuth.signInWithEmailAndPassword(email, pass)
     .catch(function(error) {
         var errorCode = error.code;
         var errorMessage = error.message;
@@ -45,6 +32,9 @@ signInButton.addEventListener("click", () => {
 });
 
 signUpButton.addEventListener("click", () => {
+    const username = document.getElementById("signup-username").value;
+    const email = document.getElementById("signup-email").value;
+    const pass = document.getElementById("signup-password").value;
     firebaseAuth.createUserWithEmailAndPassword(email, pass)
     .catch(function(error) {
         var errorCode = error.code;
@@ -56,6 +46,6 @@ signUpButton.addEventListener("click", () => {
 // signOutButton.addEventListener("click", () => {
 //     firebaseAuth.signOut()
 //     .catch(() => {
-
+//         console.log(error);
 //     });
 // });

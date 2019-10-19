@@ -67,7 +67,7 @@
 					</p>
 
 					<p class="cd-signin-modal__fieldset">
-						<input class="cd-signin-modal__input cd-signin-modal__input--full-width" type="submit" value="Login">
+						<input class="cd-signin-modal__input cd-signin-modal__input--full-width" type="submit" value="Login" id="signIn">
 					</p>
 				</form>
 				
@@ -90,7 +90,7 @@
 
 					<p class="cd-signin-modal__fieldset">
 						<label class="cd-signin-modal__label cd-signin-modal__label--password cd-signin-modal__label--image-replace" for="signup-password">Password</label>
-						<input class="cd-signin-modal__input cd-signin-modal__input--full-width cd-signin-modal__input--has-padding cd-signin-modal__input--has-border" id="signup-password" type="text"  placeholder="Password">
+						<input class="cd-signin-modal__input cd-signin-modal__input--full-width cd-signin-modal__input--has-padding cd-signin-modal__input--has-border" id="signup-password" type="text" minlength="6" placeholder="Password">
 						<a href="#0" class="cd-signin-modal__hide-password js-hide-password">Hide</a>
 						<span class="cd-signin-modal__error">Error message here!</span>
 					</p>
@@ -101,7 +101,7 @@
 					</p>
 
 					<p class="cd-signin-modal__fieldset">
-						<input class="cd-signin-modal__input cd-signin-modal__input--full-width cd-signin-modal__input--has-padding" type="submit" value="Create account">
+						<input class="cd-signin-modal__input cd-signin-modal__input--full-width cd-signin-modal__input--has-padding" type="submit" id="signUp" value="Create account">
 					</p>
 				</form>
 			</div> <!-- cd-signin-modal__block -->
@@ -130,5 +130,28 @@
 
 <script src="js/placeholders.min.js"></script> <!-- polyfill for the HTML5 placeholder attribute -->
 <script src="js/main.js"></script> <!-- Resource JavaScript -->
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.2.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.2.1/firebase-auth.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCVSvbkIcoIOY9MgfM0hANclEK86QpvTnw",
+    authDomain: "girlscriptdot.firebaseapp.com",
+    databaseURL: "https://girlscriptdot.firebaseio.com",
+    projectId: "girlscriptdot",
+    storageBucket: "girlscriptdot.appspot.com",
+    messagingSenderId: "167593291635",
+    appId: "1:167593291635:web:b0e65df92994dc278fdf06",
+    measurementId: "G-28QPGDQS0X"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
+
+<script src="js/firebaseAuth.js"></script>
+
 </body>
 </html>
